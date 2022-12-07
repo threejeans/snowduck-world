@@ -6,3 +6,6 @@
 - @reduxjs/toolkit
 - react-router-dom
 - react-helmet-async
+- axios
+
+- chakra UI
